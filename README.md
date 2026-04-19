@@ -8,29 +8,29 @@
 
 ## 网站截图预览
 
-### 首页概览
+### 首页概览（核心内容）
 
-![home.png](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/home.png)
+![首页概览](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/home.png)
 
 ### Step 1 · 领养
 
-![step1.png](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step1.png)
+![Step 1](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step1.png)
 
 ### Step 2 · 喂养
 
-![step2.png](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step2.png)
+![Step 2](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step2.png)
 
 ### Step 3 · 教技能
 
-![step3.png](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step3.png)
+![Step 3](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step3.png)
 
 ### Step 4 · 配装备
 
-![step4.png](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step4.png)
+![Step 4](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step4.png)
 
 ### Step 5 · 找伙伴
 
-![step5.png](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step5.png)
+![Step 5](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step5.png)
 
 ---
 
