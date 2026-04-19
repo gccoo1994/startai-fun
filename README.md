@@ -6,31 +6,41 @@
 
 ---
 
+## 🔥 StartAI · 专属集合站
+
+**各平台 AI 工具优惠信息集聚地**，持续收录各类 AI 产品的免费额度、活动优惠、新用户福利。
+
+无论你是想薅免费工具、找低价 API，还是想了解哪家最近在搞活动——来这里，一站看完，不走冤枉路。
+
+> 📌 收录原则：不收钱、不恰饭，只推荐真实有价值的内容。发现有误？欢迎留言告知。
+
+---
+
 ## 网站截图预览
 
-### 首页概览（核心内容）
+### 首页概览
 
-![首页概览](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/home.png)
+//raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/home.png)
 
 ### Step 1 · 领养
 
-![Step 1](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step1.png)
+//raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step1.png)
 
 ### Step 2 · 喂养
 
-![Step 2](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step2.png)
+//raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step2.png)
 
 ### Step 3 · 教技能
 
-![Step 3](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step3.png)
+//raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step3.png)
 
 ### Step 4 · 配装备
 
-![Step 4](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step4.png)
+//raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step4.png)
 
 ### Step 5 · 找伙伴
 
-![Step 5](https://raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step5.png)
+//raw.githubusercontent.com/gccoo1994/startai-fun/main/screenshots/step5.png)
 
 ---
 
